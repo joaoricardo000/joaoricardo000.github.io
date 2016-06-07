@@ -1,0 +1,23 @@
+# Site settings
+title: joaoricardo000
+header-img: img/home-bg.jpg
+email: joaoricardo000@gmail.com
+copyright_name: Florianópolis
+description: "Full Stack Developer"
+baseurl: ""
+url: "http://localhost/"
+twitter_username: 
+github_username:  joaoricardo000
+facebook_username:  joaoricardomsilva
+email_username:  joaoricardo000@gmail.com
+stackoverflow_username: http://stackoverflow.com/users/940947/joaoricardo000
+linkedin_username: https://www.linkedin.com/in/joaoricardo000
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
