@@ -11,7 +11,7 @@ header-img: "img/3.jpg"
 #### 24/05/1988 @ Florianópolis, SC - Brazil
 
 **I am a Software Developer passionate with simple, easy growing solutions.**  
-I have a BSc in Computer Science and have been involved with software for 7+ years, mostly as a backend developer.
+I have a BSc in Computer Science and have been involved with software development for 7+ years, mostly as a backend engineer.
 
 I believe that only when different points of view and skills work together, that something good is achievable, and I enjoy being part of a small team working to create something great.  
 
